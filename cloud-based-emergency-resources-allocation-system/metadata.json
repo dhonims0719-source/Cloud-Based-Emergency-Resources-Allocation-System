@@ -1,0 +1,6 @@
+{
+  "name": "Cloud-Based Emergency Resources Allocation System",
+  "description": "An Apple-inspired emergency operations and resource allocation platform with real-time incident triage, smart resource dispatch, hospital/shelter coordination, live tactical map, and AI decision support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
